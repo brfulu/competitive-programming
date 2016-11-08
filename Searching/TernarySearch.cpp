@@ -2,7 +2,7 @@
 // Ternary Search
 // Given a unimodal function f(x) = 2x^2 - 12x + 7, and several intervals,
 // for each interval find the minimum value for f(x) in that range.
-// Time complexity (log3(N))
+// Time complexity O(log3(N))
 
 #include <bits/stdc++.h>
 
