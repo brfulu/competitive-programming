@@ -1,7 +1,7 @@
 // branko_fu (Branko Fulurija)
 // Binary Search algorithm
 // Finds the first index of a given number in a sorted array, returns -1 if not present in array
-// Time complexity(logN)
+// Time complexity O(logN)
 
 #include <bits/stdc++.h>
 
